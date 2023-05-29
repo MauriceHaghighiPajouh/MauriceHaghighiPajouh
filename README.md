@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mauricehaghighipajouh&label=Profile%20views&color=0e75b6&style=flat" alt="mauricehaghighipajouh" /> </p>
 
-- 🌱 I’m currently learning **Java, Rust, JavaScript + TypeScript**
+- 🌱 I’m currently learning **Java,Python, Rust, JavaScript + TypeScript**
 
 - 📫 How to reach me **mauricehaghighi@gmx.de**
 
